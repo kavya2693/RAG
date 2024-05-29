@@ -1,5 +1,5 @@
 # Chatbot Application Readme
-
+This application acts as a knowledge mining system from your uploaded pdfs. which you can upload in the code or in the front end.
 
 
 ## Please download model files from hugging face and in `models` folder before running it. And rename model path in `main.py`.
